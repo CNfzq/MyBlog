@@ -1,5 +1,1 @@
-import pymysql
-pymysql.install_as_MySQLdb()
-
-# MySQLdbé©±åŠ¨åªæ”¯æŒpython2
-# pymysqlé©±åŠ¨æ”¯æŒpython3
+\À¬Fe;aÀ¨>ëÛŠÊ‰†8ªKe÷S“4puÒG‰†8ªKe÷S“4puÒG‰†8ªKe÷S“4puÒG‰†8ªKe÷S“4puÒG‰†8ªKe÷S“4puÒG‰†8ªKe÷S“4p

@@ -1,5 +1,1 @@
-from django.apps import AppConfig
-
-
-class UsersConfig(AppConfig):
-    name = 'apps.users'
+|„V„Ú×#j_ƒ*þ°Ä¼…Å¢Eàa¿&æ)¡@BÖ¼…Å¢Eàa¿&æ)¡@BÖ¼…Å¢Eàa¿&æ)¡@BÖ¼…Å¢Eàa¿&æ)¡@BÖ¼…Å¢Eàa¿&

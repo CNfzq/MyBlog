@@ -1,5 +1,1 @@
-from django.apps import AppConfig
-
-
-class CourseConfig(AppConfig):
-    name = 'apps.course'
+m‰o´ˆ—Â­+…ªÎÒÌWûC-“€ÛFL””¦¾XWûC-“€ÛFL””¦¾XWûC-“€ÛFL””¦¾XWûC-“€ÛFL””¦¾XWûC-“€ÛFL”

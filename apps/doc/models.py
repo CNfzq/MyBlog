@@ -1,3 +1,1 @@
-from django.db import models
-
-# Create your models here.
+` 	`Q¥.œ'šûê-z„cµ‚¤ÊûÔTP¾}ðz„cµ‚¤ÊûÔTP¾}ðz„cµ‚¤Ê

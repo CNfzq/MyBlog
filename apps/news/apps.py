@@ -1,5 +1,1 @@
-from django.apps import AppConfig
-
-
-class NewsConfig(AppConfig):
-    name = 'apps.news'
+¨xkΆτμόX‰ρω¨Qr7Ε,ΆΕH	¤ύΞKυdτ=μ5Αλ·q¤¥π„ΏΔαUjCN„»arήήΏ Ξ¦θΣx(ª«Έ™μAÒ€‘sw¶σ
